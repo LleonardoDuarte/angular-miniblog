@@ -1,0 +1,23 @@
+.container-bigcard {
+  height: 600px;
+  width: 400px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.image-bigcard img {
+  width: 100%;
+}
+
+.title-bigcard h1 {
+  font-size: 20px;
+}
+
+.description-bigcard p {
+  font-size: 15px;
+  color: gray;
+}

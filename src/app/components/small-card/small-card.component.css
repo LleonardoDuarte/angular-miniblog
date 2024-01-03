@@ -1,0 +1,25 @@
+.container-smallcard {
+  width: 800px;
+margin-top: 20px;
+}
+
+.container-smallcard-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.hr {
+  margin: 10px;
+  opacity: 30%;
+}
+.image-smallcard img {
+  width: 200px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.title-smallcard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
