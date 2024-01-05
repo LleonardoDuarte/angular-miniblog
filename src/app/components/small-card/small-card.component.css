@@ -1,6 +1,6 @@
 .container-smallcard {
   width: 800px;
-margin-top: 20px;
+  margin-top: 20px;
 }
 
 .container-smallcard-content {
@@ -13,13 +13,17 @@ margin-top: 20px;
   opacity: 30%;
 }
 .image-smallcard img {
-  width: 200px;
-  height: 100px;
+  width: 250px;
+  height: 150px;
   margin-right: 20px;
+  border: 5px solid white;
+  border-radius: 5px;
 }
 
 .title-smallcard {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 15px;
+  opacity: 80%;
 }
